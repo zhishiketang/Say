@@ -13,5 +13,11 @@ namespace Say
         {
             Trace.WriteLine($"say helloword to {name}");
         }
+
+        public void SayHi(string name)
+        {
+            Trace.WriteLine($"say hi {name}");
+        }
+
     }
 }
