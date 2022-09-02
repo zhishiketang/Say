@@ -1,0 +1,12 @@
+C:\Users\17868\source\repos\Say\Say\bin\Debug\net6.0\Say.deps.json
+C:\Users\17868\source\repos\Say\Say\bin\Debug\net6.0\Say.dll
+C:\Users\17868\source\repos\Say\Say\bin\Debug\net6.0\Say.pdb
+C:\Users\17868\source\repos\Say\Say\obj\Debug\net6.0\Say.csproj.AssemblyReference.cache
+C:\Users\17868\source\repos\Say\Say\obj\Debug\net6.0\Say.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17868\source\repos\Say\Say\obj\Debug\net6.0\Say.AssemblyInfoInputs.cache
+C:\Users\17868\source\repos\Say\Say\obj\Debug\net6.0\Say.AssemblyInfo.cs
+C:\Users\17868\source\repos\Say\Say\obj\Debug\net6.0\Say.csproj.CoreCompileInputs.cache
+C:\Users\17868\source\repos\Say\Say\obj\Debug\net6.0\Say.dll
+C:\Users\17868\source\repos\Say\Say\obj\Debug\net6.0\refint\Say.dll
+C:\Users\17868\source\repos\Say\Say\obj\Debug\net6.0\Say.pdb
+C:\Users\17868\source\repos\Say\Say\obj\Debug\net6.0\ref\Say.dll
