@@ -9,9 +9,9 @@ namespace Say
 {
     public class MySay
     {
-        public void SayHello(string name)
+        public void SayHelloWorld(string name)
         {
-            Trace.WriteLine($"say hello to {name}");
+            Trace.WriteLine($"say helloword to {name}");
         }
     }
 }
